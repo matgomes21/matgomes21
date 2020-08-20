@@ -16,3 +16,10 @@
 🕷️ Fun fact: I have a spiderman costume (Mr. Stark, i don't feel so good...)
 
 📫 How to reach me: mateusgomes.nascimento21@gmail.com
+
+<p align="center">
+    Nice to meet you :)
+</p>
+<p align="center">
+    <img src="./doc/spiderman.gif" alt="Spiderman sending hi!" width=300px />
+</p>
