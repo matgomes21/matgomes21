@@ -1,16 +1,18 @@
-### Hi there 👋
+# Mateus Gomes do Nascimento
+### Software Engeneering student from Universidade de Brasília (UnB)
 
-<!--
-**matgomes21/matgomes21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate on software development and programming
 
-Here are some ideas to get you started:
+🧠 Quick learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Studying full-stack development, focused on NodeJS and React
+
+🎓 Graduated in English Language by Cooplem Idiomas
+
+🌎 My dream is to work and live outside Brazil
+
+🎮 I like videogames very much
+
+🕷️ Fun fact: I have a spiderman costume (Mr. Stark, i don't feel so good...)
+
+📫 How to reach me: mateusgomes.nascimento21@gmail.com
