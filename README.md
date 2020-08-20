@@ -21,6 +21,6 @@
     Nice to meet you :)
 </p>
 
-<!-- <p align="center">
-    <img src="http://imgur.com/gallery/fXKmsiL" alt="Spiderman sending hi!" width=300px />
-</p> -->
+<p align="center">
+    <img src="https://media3.giphy.com/media/BWD3CtcudWL28/giphy.gif?cid=ecf05e4757spqmo9cyejnae2rewa7g5uykawd6rngazwj76b&rid=giphy.gif" alt="Spiderman sending hi!" width=300px />
+</p>
