@@ -20,6 +20,7 @@
 <p align="center">
     Nice to meet you :)
 </p>
-<p align="center">
+
+<!-- <p align="center">
     <img src="http://imgur.com/gallery/fXKmsiL" alt="Spiderman sending hi!" width=300px />
-</p>
+</p> -->
