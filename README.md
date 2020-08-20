@@ -21,5 +21,5 @@
     Nice to meet you :)
 </p>
 <p align="center">
-    <img src="./doc/spiderman.gif" alt="Spiderman sending hi!" width=300px />
+    <img src="http://imgur.com/gallery/fXKmsiL" alt="Spiderman sending hi!" width=300px />
 </p>
