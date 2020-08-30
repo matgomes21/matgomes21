@@ -15,7 +15,7 @@
 
 🕷️ Fun fact: I have a spiderman costume (Mr. Stark, i don't feel so good...)
 
-📫 How to reach me: mateusgomes.nascimento21@gmail.com
+📫 You can reach me by mateusgomes.nascimento21@gmail.com or @matgomes21 on Telegram
 
 <p align="center">
     <img src="https://media3.giphy.com/media/BWD3CtcudWL28/giphy.gif?cid=ecf05e4757spqmo9cyejnae2rewa7g5uykawd6rngazwj76b&rid=giphy.gif" alt="Spiderman sending hi!" width=300px />
