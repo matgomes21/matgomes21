@@ -1,5 +1,8 @@
-# Mateus Gomes do Nascimento
+# Mateus Gomes
 ### Software Engeneering student from Universidade de Brasília (UnB)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Mateus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matgomes21/)](https://www.linkedin.com/in/matgomes21/)
+[![Gmail Badge](https://img.shields.io/badge/-mateusgomes.nascimento21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusgomes.nascimento21@gmail.com)](mailto:mateusgomes.nascimento21@gmail.com)
 
 💻 Passionate on software development and programming
 
@@ -14,8 +17,6 @@
 🎮 I like videogames very much
 
 🕷️ Fun fact: I have a spiderman costume (Mr. Stark, i don't feel so good...)
-
-📫 You can reach me at mateusgomes.nascimento21@gmail.com or @matgomes21 on Telegram
 
 <p align="center">
     <img src="https://media3.giphy.com/media/BWD3CtcudWL28/giphy.gif?cid=ecf05e4757spqmo9cyejnae2rewa7g5uykawd6rngazwj76b&rid=giphy.gif" alt="Spiderman sending hi!" width=300px />
