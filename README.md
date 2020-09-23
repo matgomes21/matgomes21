@@ -1,5 +1,4 @@
-# Hi, I'm Mateus
-### Software Engeneering student from Universidade de Brasília (UnB)
+# Hi, I'm Mateus :wave:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matgomes21/)](https://www.linkedin.com/in/matgomes21/)
 [![Gmail Badge](https://img.shields.io/badge/-mateusgomes.nascimento21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusgomes.nascimento21@gmail.com)](mailto:mateusgomes.nascimento21@gmail.com)
@@ -9,15 +8,20 @@
 
 🧠 Quick learner
 
-🎯 Studying full-stack development, focused on NodeJS and React
+🎯 Studying full-stack development, focused on JavaScript and TypeScript
 
 🎓 Graduated in English Language by Cooplem Idiomas
 
-🌎 My dream is to work and live outside Brazil
-
-🎮 I like videogames very much
-
 🕷️ Fun fact: I have a spiderman costume (Mr. Stark, i don't feel so good...)
+
+
+<a href="https://github.com/matgomes21/github-readme-statst">
+  <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=matgomes21&show_icons=true&theme=omni" />
+</a>
+
+<a href="https://github.com/matgomes21/github-readme-stats">
+  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=matgomes21&hide=jupyter%20notebook,html&layout=compact&theme=light" />
+</a><br><br><br><br><br><br><br>
 
 <p align="center">
     <img src="https://media3.giphy.com/media/BWD3CtcudWL28/giphy.gif?cid=ecf05e4757spqmo9cyejnae2rewa7g5uykawd6rngazwj76b&rid=giphy.gif" alt="Spiderman sending hi!" width=300px />
