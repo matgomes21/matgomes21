@@ -24,6 +24,9 @@
 
 🕷️ Fun fact: I have a spiderman costume (Mr. Stark, i don't feel so good...)
 
+<p align="center">
+  <img align="center" src="https://media3.giphy.com/media/BWD3CtcudWL28/giphy.gif?cid=ecf05e4757spqmo9cyejnae2rewa7g5uykawd6rngazwj76b&rid=giphy.gif" alt="Spiderman sending hi!" width=300px />
+</p>
 
 <h3 align="center">
     Nice to meet you :)
