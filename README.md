@@ -12,8 +12,6 @@
   <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=matgomes21&hide=jupyter%20notebook,html&layout=compact&theme=light" />
 </a><br><br><br><br><br><br><br><br>
 
-<img align="right" src="https://media3.giphy.com/media/BWD3CtcudWL28/giphy.gif?cid=ecf05e4757spqmo9cyejnae2rewa7g5uykawd6rngazwj76b&rid=giphy.gif" alt="Spiderman sending hi!" width=300px />
-
 💻 Passionate on software development and programming
 
 🧠 Quick learner
