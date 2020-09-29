@@ -1,4 +1,4 @@
-# Hi :wave:, I'm Mateus
+# Hi, I'm Mateus :wave:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matgomes21/)](https://www.linkedin.com/in/matgomes21/)
 [![Gmail Badge](https://img.shields.io/badge/-mateusgomes.nascimento21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusgomes.nascimento21@gmail.com)](mailto:mateusgomes.nascimento21@gmail.com)
