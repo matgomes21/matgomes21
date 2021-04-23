@@ -16,7 +16,7 @@
 
 🧠 Quick learner
 
-🎯 Studying full-stack development, focused on JavaScript and TypeScript
+🎯 Studying full-stack development, focused on NodeJS, ReactJS and VueJS
 
 🎓 Graduated in English Language by Cooplem Idiomas
 
