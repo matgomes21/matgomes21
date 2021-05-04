@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://github.com/matgomes21/github-readme-stats">
-  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=matgomes21&hide=jupyter%20notebook,html&layout=compact&theme=light" />
+  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=matgomes21&hide=jupyter%20notebook,html&layout=compact&theme=omni" />
 </a><br><br><br><br><br><br><br><br>
 
 💻 Passionate on software development and programming
