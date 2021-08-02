@@ -16,7 +16,7 @@
 
 🧠 Quick learner
 
-🎯 Studying full-stack development, focused on NodeJS and ReactJS frameworks
+🎯 Studying full-stack development, focused on NodeJS, ReactJS and React Native frameworks
 
 🎓 Graduated in English Language by Cooplem Idiomas
 
