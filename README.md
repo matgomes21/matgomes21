@@ -12,16 +12,6 @@
   <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=matgomes21&hide=jupyter%20notebook,html&layout=compact&theme=omni" />
 </a><br><br><br><br><br><br><br><br>
 
-💻 Passionate on software development and programming
-
-🧠 Quick learner
-
-🎯 Studying full-stack development, focused on NodeJS, ReactJS and React Native frameworks
-
-🎓 Graduated in English Language by Cooplem Idiomas
-
-🕷️ Fun fact: I have a spiderman costume (Mr. Stark, i don't feel so good...)
-
 <p align="center">
   <img align="center" src="https://media3.giphy.com/media/BWD3CtcudWL28/giphy.gif?cid=ecf05e4757spqmo9cyejnae2rewa7g5uykawd6rngazwj76b&rid=giphy.gif" alt="Spiderman sending hi!" width=300px />
 </p>
