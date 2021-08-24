@@ -22,8 +22,8 @@
 <br>
 
 <a href="https://github.com/matgomes21">
-  <img height='170em' src="https://github-readme-stats.vercel.app/api?username=matgomes21&show_icons=true&theme=algolia" />
-  <img height='170em' src="https://github-readme-streak-stats.herokuapp.com/?user=matgomes21&theme=algolia" />
+  <img height='150em' src="https://github-readme-stats.vercel.app/api?username=matgomes21&show_icons=true&theme=algolia" />
+  <img height='150em' src="https://github-readme-streak-stats.herokuapp.com/?user=matgomes21&theme=algolia" />
 </a>
 
 ##
