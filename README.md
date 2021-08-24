@@ -1,12 +1,9 @@
 # Hi, I'm Mateus :wave:
 
-### Contact
-
-<div>
-  <a href="https://www.linkedin.com/in/matgomes21" target="_blank"><img src="https://img.shields.io/badge/-Mateus Gomes-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto: mateusgomes.nascimento21@gmail.com"><img src="https://img.shields.io/badge/-mateusgomes.nascimento21@gmail.com-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/matgomes21" target="_blank"><img src="https://img.shields.io/badge/-matgomes21-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-</div>
+<br>
+<a href="https://www.linkedin.com/in/matgomes21" target="_blank"><img src="https://img.shields.io/badge/-Mateus Gomes-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto: mateusgomes.nascimento21@gmail.com"><img src="https://img.shields.io/badge/-mateusgomes.nascimento21@gmail.com-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://t.me/matgomes21" target="_blank"><img src="https://img.shields.io/badge/-matgomes21-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
 ##
 
