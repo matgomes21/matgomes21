@@ -19,7 +19,7 @@
 - 🎮 I love games, so feel free to call me to play some game xD
 - 🕷️ Fun fact: I have a spiderman costume (Mr. Stark, I don't feel so good...)
 
-<br>
+<br><br>
 
 <a href="https://github.com/matgomes21">
   <img height='150em' src="https://github-readme-stats.vercel.app/api?username=matgomes21&show_icons=true&theme=algolia" />
