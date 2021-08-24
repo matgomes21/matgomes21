@@ -13,9 +13,9 @@
 </a><br><br><br><br><br><br><br><br>
 
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/matgomes21/matgomes21/748ee0f56639d76bb895a47218b211a84f0af8b8/github-contribution-grid-snake.svg" alt="Snake game" /img>
+  <img align="center" src="https://media3.giphy.com/media/BWD3CtcudWL28/giphy.gif?cid=ecf05e4757spqmo9cyejnae2rewa7g5uykawd6rngazwj76b&rid=giphy.gif" alt="Spiderman sending hi!" width=300px />
 </p>
 
 <p align="center">
-  <img align="center" src="https://media3.giphy.com/media/BWD3CtcudWL28/giphy.gif?cid=ecf05e4757spqmo9cyejnae2rewa7g5uykawd6rngazwj76b&rid=giphy.gif" alt="Spiderman sending hi!" width=300px />
+  <img align="center" src="https://raw.githubusercontent.com/matgomes21/matgomes21/748ee0f56639d76bb895a47218b211a84f0af8b8/github-contribution-grid-snake.svg" alt="Snake game" /img>
 </p>
