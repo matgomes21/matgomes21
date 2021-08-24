@@ -10,7 +10,7 @@
 
 ##
 
-<img align="right" src="https://media3.giphy.com/media/BWD3CtcudWL28/giphy.gif?cid=ecf05e4757spqmo9cyejnae2rewa7g5uykawd6rngazwj76b&rid=giphy.gif" alt="Spiderman" width='35%' />
+<img align="right" src="https://media3.giphy.com/media/BWD3CtcudWL28/giphy.gif?cid=ecf05e4757spqmo9cyejnae2rewa7g5uykawd6rngazwj76b&rid=giphy.gif" alt="Spiderman" width='30%' />
 
 - 🎓 Studying **Software Engineering** at Universidade de Brasília
 - 🎓 Graduated in **English Language** at Cooplem Idiomas
