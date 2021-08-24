@@ -48,5 +48,5 @@
 ##
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/matgomes21/matgomes21/748ee0f56639d76bb895a47218b211a84f0af8b8/github-contribution-grid-snake.svg" alt="Snake game" /img>
+  <img src="https://raw.githubusercontent.com/matgomes21/matgomes21/output/github-contribution-grid-snake.svg" alt="Snake game" /img>
 </div>
