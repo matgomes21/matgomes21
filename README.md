@@ -11,6 +11,7 @@
 
 - 🎓 Studying **Software Engineering** at Universidade de Brasília
 - 🎓 Graduated in **English Language** at Cooplem Idiomas
+- 🎓 Graduated on **Ignite Bootcamp** at Rocketseat
 - 📚 Studying **French Language** at UnB Idiomas
 - 💻 Studying full-stack development, focusing on _NodeJs_, _ReactJs_, _React Native_ and _Django_
 - 🎮 I love games, so feel free to call me to play some game xD
