@@ -12,7 +12,7 @@
 - 🎓 Studying **Software Engineering** at Universidade de Brasília
 - 🎓 Graduated in **English Language** at Cooplem Idiomas
 - 📚 Studying **French Language** at UnB Idiomas
-- 💻 Studying Full-Stack development, focusing on _NodeJs_, _Django_, _ReactJs_ and React Native.
+- 💻 Studying Full-Stack development, focusing on _NodeJs_, _Django_, _ReactJs_ and _React Native_.
 - 🎮 I love games, so feel free to call me to play some game xD
 - 🕷️ Fun fact: I have a spiderman costume (Mr. Stark, I don't feel so good...)
 
