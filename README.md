@@ -17,6 +17,7 @@
 - 🕷️ Fun fact: I have a spiderman costume (Mr. Stark, I don't feel so good...)
 
 <br>
+<br>
 
 <a href="https://github.com/matgomes21">
   <img align="right" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=matgomes21&theme=algolia" />
