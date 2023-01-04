@@ -1,4 +1,4 @@
-# Hi, I'm Mateus :wave:
+# Hi, I'm Mat :wave:
 
 <br>
 <a href="https://www.linkedin.com/in/matgomes21" target="_blank"><img src="https://img.shields.io/badge/-Mateus Gomes-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
