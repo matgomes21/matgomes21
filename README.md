@@ -12,9 +12,7 @@
 - 🎓 Studying **Software Engineering** at Universidade de Brasília
 - 🎓 Graduated in **English Language** at Cooplem Idiomas
 - 📚 Basic level of **French Language** at UnB Idiomas
-- 💻 Studying Full-Stack development, focusing on __Javascript__, __Typescript__ and __Python__.
-- 🎮 I love games, so feel free to call me to play some game xD
-- 🕷️ Fun fact: I have a spiderman costume (Mr. Stark, I don't feel so good...)
+- 💻 Studying Full-Stack development, focusing on __Javascript__ and __Typescript__.
 
 <br>
 <br>
