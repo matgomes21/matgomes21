@@ -8,7 +8,7 @@
 - Languages: Portuguese (Native), English (Fluent) and Spanish (Basic)
 - Studying Full-Stack development, focusing on Typescript and Javascript.
 
-One day I will be hokage.
+One day I will be Hokage.
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matgomes21&hide=jupyter%20notebook,html&layout=compact&theme=algolia" />
