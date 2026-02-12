@@ -5,8 +5,8 @@
 
 -  B.Sc. in Software Engineering from University of Brasilia
 - Graduated in English Language at Cooplem Idiomas
-- Languages: Portuguese (Native), English (Fluent) and Spanish (Basic)
-- Studying Full-Stack development, focusing on Typescript and Javascript.
+- Languages: Portuguese (Native) and English (Fluent)
+- Focused on Full-Stack development (Typescript) with NodeJs/NestJS and React.
 
 One day I will be Hokage.
  
